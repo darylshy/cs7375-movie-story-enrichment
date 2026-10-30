@@ -1,0 +1,17 @@
+# Raw datasets remain local; see README.md for sources.
+/MovieLens 1M Dataset/
+/CMU Movie Summary Corpus/
+/Evaluation of Popularity Bias/ml-1m-data/
+
+# Local environment, caches, and editor state
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
